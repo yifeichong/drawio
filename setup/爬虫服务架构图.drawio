@@ -1,1 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T04:56:25.510Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.3" etag="F-buqfmGYkuZN3mhdeTW" type="github"><diagram id="1EkI18Agmryvb4UhZMbc">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-24T05:11:59.634Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="gGux5aYZJ3GVmMyEoGsy" version="20.0.3" type="github">
+  <diagram id="1EkI18Agmryvb4UhZMbc" name="第 1 页">
+    <mxGraphModel dx="850" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jnNGTPW2-MUmK4gnuwDH-1" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="450" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jnNGTPW2-MUmK4gnuwDH-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="450" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jnNGTPW2-MUmK4gnuwDH-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="454" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jnNGTPW2-MUmK4gnuwDH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jnNGTPW2-MUmK4gnuwDH-4" target="jnNGTPW2-MUmK4gnuwDH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jnNGTPW2-MUmK4gnuwDH-4" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="300" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jnNGTPW2-MUmK4gnuwDH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jnNGTPW2-MUmK4gnuwDH-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jnNGTPW2-MUmK4gnuwDH-5" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jnNGTPW2-MUmK4gnuwDH-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="jnNGTPW2-MUmK4gnuwDH-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="270" as="sourcePoint" />
+            <mxPoint x="620" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jnNGTPW2-MUmK4gnuwDH-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="jnNGTPW2-MUmK4gnuwDH-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="270" as="sourcePoint" />
+            <mxPoint x="520" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jnNGTPW2-MUmK4gnuwDH-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jnNGTPW2-MUmK4gnuwDH-4" target="jnNGTPW2-MUmK4gnuwDH-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="290" as="sourcePoint" />
+            <mxPoint x="520" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jnNGTPW2-MUmK4gnuwDH-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jnNGTPW2-MUmK4gnuwDH-4" target="jnNGTPW2-MUmK4gnuwDH-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="290" as="sourcePoint" />
+            <mxPoint x="420" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jnNGTPW2-MUmK4gnuwDH-15" value="待抓取URL队列" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="190" width="140" height="180" as="geometry">
+            <mxRectangle x="70" y="200" width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jnNGTPW2-MUmK4gnuwDH-16" value="https://git.mills.io/" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="jnNGTPW2-MUmK4gnuwDH-15">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jnNGTPW2-MUmK4gnuwDH-17" value="https://code.tencent.com/" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="jnNGTPW2-MUmK4gnuwDH-15">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jnNGTPW2-MUmK4gnuwDH-18" value="https://gitee.com/" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="jnNGTPW2-MUmK4gnuwDH-15">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jnNGTPW2-MUmK4gnuwDH-25" value="https://github.com/" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="jnNGTPW2-MUmK4gnuwDH-15">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jnNGTPW2-MUmK4gnuwDH-26" value="......" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="jnNGTPW2-MUmK4gnuwDH-15">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jnNGTPW2-MUmK4gnuwDH-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.999;exitY=0.76;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jnNGTPW2-MUmK4gnuwDH-17" target="jnNGTPW2-MUmK4gnuwDH-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jnNGTPW2-MUmK4gnuwDH-28" value="控制节点&lt;br&gt;（URL管理服务器）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="310" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jnNGTPW2-MUmK4gnuwDH-29" value="爬行节点&lt;br&gt;（抓取服务器）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="439" y="150" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jnNGTPW2-MUmK4gnuwDH-30" value="爬行节点&lt;br&gt;（抓取服务器）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="310" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jnNGTPW2-MUmK4gnuwDH-31" value="爬行节点&lt;br&gt;（抓取服务器）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="460" width="110" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
