@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T07:05:22.242Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.5" etag="aG8N_kBn3hr3C46hSDx4" type="github"><diagram id="ERVVJRpVsCl6eiK49Jpq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-07T07:08:21.088Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="cP35XHW1kCzfAMgZoKBM" version="20.2.5" type="github">
+  <diagram id="ERVVJRpVsCl6eiK49Jpq" name="第 1 页">
+    <mxGraphModel dx="850" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ujECjQCwR6M_lMDnz91K-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;direction=east;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ujECjQCwR6M_lMDnz91K-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ujECjQCwR6M_lMDnz91K-4" target="ujECjQCwR6M_lMDnz91K-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ujECjQCwR6M_lMDnz91K-3" value="MD5编码处理" style="rounded=0;whiteSpace=wrap;html=1;direction=east;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="220" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ujECjQCwR6M_lMDnz91K-4" value="转化为偏移量" style="rounded=0;whiteSpace=wrap;html=1;direction=east;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="270" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ujECjQCwR6M_lMDnz91K-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ujECjQCwR6M_lMDnz91K-6" target="ujECjQCwR6M_lMDnz91K-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ujECjQCwR6M_lMDnz91K-6" value="将偏移量对应位置的值置为1" style="rounded=0;whiteSpace=wrap;html=1;direction=east;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="320" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ujECjQCwR6M_lMDnz91K-8" value="结束" style="ellipse;whiteSpace=wrap;html=1;direction=east;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="380" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ujECjQCwR6M_lMDnz91K-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ujECjQCwR6M_lMDnz91K-1" target="ujECjQCwR6M_lMDnz91K-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="426" y="400" as="sourcePoint" />
+            <mxPoint x="376" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ujECjQCwR6M_lMDnz91K-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ujECjQCwR6M_lMDnz91K-3" target="ujECjQCwR6M_lMDnz91K-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="260" as="sourcePoint" />
+            <mxPoint x="440" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
