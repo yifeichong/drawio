@@ -1,1 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T07:24:48.440Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.3.0" etag="RWaQgmiGh5BSZElTTJp9" type="github"><diagram id="S5dpAuOEdf_AGqWuxGw6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-11T01:21:22.185Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="YbSn0CnR1hTKsMrUCF2Q" version="20.3.0" type="github">
+  <diagram id="S5dpAuOEdf_AGqWuxGw6" name="第 1 页">
+    <mxGraphModel dx="1090" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JbR3xAyxwqAO7idd3Ihr-4" value="爬虫模块" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="230" y="20" width="240" height="480" as="geometry">
+            <mxRectangle x="230" y="20" width="70" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JbR3xAyxwqAO7idd3Ihr-5" value="用户" style="swimlane;startSize=20;" vertex="1" parent="JbR3xAyxwqAO7idd3Ihr-4">
+          <mxGeometry y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="JbR3xAyxwqAO7idd3Ihr-9" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="JbR3xAyxwqAO7idd3Ihr-5">
+          <mxGeometry x="45" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbR3xAyxwqAO7idd3Ihr-10" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="JbR3xAyxwqAO7idd3Ihr-9" parent="JbR3xAyxwqAO7idd3Ihr-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JbR3xAyxwqAO7idd3Ihr-6" value="爬虫系统" style="swimlane;startSize=20;" vertex="1" parent="JbR3xAyxwqAO7idd3Ihr-4">
+          <mxGeometry x="120" y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
